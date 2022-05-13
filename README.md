@@ -8,8 +8,10 @@ Feedback Widget - Projeto desenvolvido durante a edição Next Level Week: Retur
 - Mailtrap
 - Jest
 - Cors
+- Railway (Deploy Back-end)
 
 Front-end:
+
 - React
 - Typescript
 - Vite

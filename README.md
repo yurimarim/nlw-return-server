@@ -10,7 +10,7 @@ Feedback Widget - Projeto desenvolvido durante a edição Next Level Week: Retur
 -   [ ] Cors
 -   [ ] Railway (Deploy Back-end)
 
-Front-end:
+<h3>Front-end:</h3>
 
 -   [ ] React
 -   [ ] Typescript

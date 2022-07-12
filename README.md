@@ -4,20 +4,20 @@ Feedback Widget - Projeto desenvolvido durante a edição Next Level Week: Retur
 
 ## Tecnologias Utilizadas
 
-- Nodemailer
-- Mailtrap
-- Jest
-- Cors
-- Railway (Deploy Back-end)
+-   [ ] Nodemailer
+-   [ ] Mailtrap
+-   [ ] Jest
+-   [ ] Cors
+-   [ ] Railway (Deploy Back-end)
 
 Front-end:
 
-- React
-- Typescript
-- Vite
-- Headless UI
-- Phosphor
-- Tailwind
-- Tailwindcss Forms Plugin
-- Tailwind Scrollbar
-- HTML2Canvas (Print System)
+-   [ ] React
+-   [ ] Typescript
+-   [ ] Vite
+-   [ ] Headless UI
+-   [ ] Phosphor
+-   [ ] Tailwind
+-   [ ] Tailwindcss Forms Plugin
+-   [ ] Tailwind Scrollbar
+-   [ ] HTML2Canvas (Print System)
